@@ -1,0 +1,62 @@
+{
+  "name": "DATEV SCC",
+  "dark": true,
+  "author": "Christoph Welcz",
+  "editorScheme": "/DATEV_SCC.xml",
+  "ui": {
+    "*": {
+      "background": "#222222",
+      "foreground": "#d4d4d4",
+      "borderColor": "#002921",
+      "selectionBackground": "#005b4a",
+      "selectionInactiveBackground": "#004033",
+      "modifiedItemForeground": "#3f8225"
+    },
+    "Borders": {
+      "color": "#004033"
+    },
+    "EditorPane.inactiveBackground": "#000000",
+    "Editor.shortcutForeground": "#00b090",
+    "ToolWindow": {
+      "Header": {
+        "background": "#3f8225",
+        "inactiveBackground": "#004033"
+      }
+    },
+    "Link": {
+      "activeForeground": "#00b090",
+      "secondaryForeground": "#00b090",
+      "hoverForeground": "#3f8225",
+      "pressedForeground": "#3f8225",
+      "visitedForeground": "#004033"
+    },
+    "Popup": {
+      "Header": {
+        "activeBackground": "#3f8225",
+        "inactiveBackground": "004033"
+      }
+    },
+    "Button": {
+      "default": {
+        "startBackground": "#3f8225",
+        "endBackground": "#005b4a"
+      }
+    },
+    "EditorTabs": {
+      "underlineColor": "#3f8225",
+      "selectedBackground": "#1a1a1a"
+    },
+    "FileColor": {
+      "Green": "#142b0c",
+      "Orange": "#330803"
+    },
+    "ProgressBar.progressColor": "#3f8225",
+    "Component.focusColor": "#3f8225"
+  },
+  "background": {
+    "image": "DATEV_SCC_Logo.png",
+    "transparency": 10,
+    "anchor": "bottom_right",
+    "fill": "plain"
+  }
+}

@@ -1,0 +1,34 @@
+<idea-plugin>
+  <id>com.your.company.unique.plugin.id</id>
+  <name>DATEV SCC UI Theme</name>
+  <version>1.0</version>
+  <vendor email="scc@datev.de" url="http://www.datev.de/scc">SCC at DATEV</vendor>
+
+  <description><![CDATA[
+      UI Theme with the colors of the Software Craftsmanship Community at DATEV.
+    ]]></description>
+
+  <change-notes><![CDATA[
+    1.0 initial version
+    ]]>
+  </change-notes>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
+  <idea-version since-build="173.0"/>
+
+  <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+       on how to target different products -->
+  <!-- uncomment to enable plugin in all products
+  <depends>com.intellij.modules.lang</depends>
+  -->
+
+  <extensions defaultExtensionNs="com.intellij">
+    <!-- Add your extensions here -->
+    <themeProvider id="e8d9d8ca-357a-4cda-b807-5233bd095271" path="DATEV_SCC.theme.json"/>
+  </extensions>
+
+  <actions>
+    <!-- Add your actions here -->
+  </actions>
+
+</idea-plugin>
