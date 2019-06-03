@@ -67,5 +67,11 @@
       "Orange": "#330803",
       "Yellow": "#292400"
     }
+  },
+  "background": {
+    "image": "DATEV_SCC_Logo.png",
+    "transparency": 10,
+    "anchor": "bottom_right",
+    "fill": "plain"
   }
 }
