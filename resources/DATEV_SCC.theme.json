@@ -3,25 +3,41 @@
   "dark": true,
   "author": "Christoph Welcz",
   "editorScheme": "/DATEV_SCC.xml",
+  "icons": {
+    "ColorPalette": {
+      "Checkbox.Focus.Thin.Selected.Dark": "#004033",
+      "Checkbox.Focus.Wide.Dark": "#3f8225"
+    }
+  },
   "ui": {
     "*": {
       "background": "#222222",
       "foreground": "#d4d4d4",
       "borderColor": "#002921",
+      "focusColor": "#3f8225",
+      "focusedBorderColor": "#005b4a",
       "selectionBackground": "#005b4a",
       "selectionInactiveBackground": "#004033",
       "modifiedItemForeground": "#3f8225"
     },
     "Borders": {
-      "color": "#004033"
+      "color": "#004033",
+      "ContrastBorderColor": "#005b4a"
     },
-    "EditorPane.inactiveBackground": "#000000",
-    "Editor.shortcutForeground": "#00b090",
-    "ToolWindow": {
-      "Header": {
-        "background": "#3f8225",
-        "inactiveBackground": "#004033"
+    "Button": {
+      "default": {
+        "startBackground": "#3f8225",
+        "endBackground": "#005b4a",
+        "focusColor": "#004033",
+        "startBorderColor": "#002921",
+        "endBorderColor": "#002921"
       }
+    },
+    "Editor.shortcutForeground": "#00b090",
+    "EditorPane.inactiveBackground": "#000000",
+    "EditorTabs": {
+      "underlineColor": "#3f8225",
+      "selectedBackground": "#1a1a1a"
     },
     "Link": {
       "activeForeground": "#00b090",
@@ -36,22 +52,19 @@
         "inactiveBackground": "004033"
       }
     },
-    "Button": {
-      "default": {
-        "startBackground": "#3f8225",
-        "endBackground": "#005b4a"
+    "ProgressBar.progressColor": "#3f8225",
+    "TabbedPane.underlineColor": "#3f8225",
+    "ToolWindow": {
+      "Header": {
+        "background": "#3f8225",
+        "inactiveBackground": "#004033"
       }
-    },
-    "EditorTabs": {
-      "underlineColor": "#3f8225",
-      "selectedBackground": "#1a1a1a"
     },
     "FileColor": {
       "Green": "#142b0c",
-      "Orange": "#330803"
-    },
-    "ProgressBar.progressColor": "#3f8225",
-    "Component.focusColor": "#3f8225"
+      "Orange": "#330803",
+      "Yellow": "#292400"
+    }
   },
   "background": {
     "image": "DATEV_SCC_Logo.png",
