@@ -56,21 +56,16 @@
     "TabbedPane.underlineColor": "#3f8225",
     "ToolWindow": {
       "Header": {
-        "background": "#3f8225",
+        "background": "#2f611c",
         "inactiveBackground": "#004033",
         "borderColor": "#004e40"
       }
     },
+    "Tree.background": "#121212",
     "FileColor": {
       "Green": "#142b0c",
       "Orange": "#330803",
       "Yellow": "#292400"
     }
-  },
-  "background": {
-    "image": "DATEV_SCC_Logo.png",
-    "transparency": 10,
-    "anchor": "bottom_right",
-    "fill": "plain"
   }
 }

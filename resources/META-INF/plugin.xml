@@ -1,5 +1,5 @@
 <idea-plugin>
-  <id>com.your.company.unique.plugin.id</id>
+  <id>de.welcz.datev.scc.ui.theme</id>
   <name>DATEV SCC UI Theme</name>
   <version>1.1</version>
   <vendor email="scc@datev.de" url="http://www.datev.de/scc">SCC at DATEV</vendor>
