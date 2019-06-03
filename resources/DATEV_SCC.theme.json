@@ -57,7 +57,8 @@
     "ToolWindow": {
       "Header": {
         "background": "#3f8225",
-        "inactiveBackground": "#004033"
+        "inactiveBackground": "#004033",
+        "borderColor": "#004e40"
       }
     },
     "FileColor": {
