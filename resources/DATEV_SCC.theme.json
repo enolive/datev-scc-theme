@@ -22,7 +22,7 @@
     },
     "Borders": {
       "color": "#004033",
-      "ContrastBorderColor": "#005b4a"
+      "ContrastBorderColor": "#004033"
     },
     "Button": {
       "default": {
