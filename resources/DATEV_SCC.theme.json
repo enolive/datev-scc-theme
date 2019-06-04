@@ -33,6 +33,7 @@
         "endBorderColor": "#002921"
       }
     },
+    "Component.borderColor": "#005b4a",
     "Editor.shortcutForeground": "#00b090",
     "EditorPane.inactiveBackground": "#000000",
     "EditorTabs": {
