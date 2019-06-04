@@ -19,12 +19,7 @@
   <idea-version since-build="191.0"/>
 
   <extensions defaultExtensionNs="com.intellij">
-    <!-- Add your extensions here -->
     <themeProvider id="e8d9d8ca-357a-4cda-b807-5233bd095271" path="DATEV_SCC.theme.json"/>
   </extensions>
-
-  <actions>
-    <!-- Add your actions here -->
-  </actions>
 
 </idea-plugin>
