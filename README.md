@@ -15,7 +15,7 @@ Features:
 ## How to build
 
 ```bash
-gradle buildPlugin
+./gradlew buildPlugin
 ```
 
 ## How to work with the project
