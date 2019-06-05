@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>de.welcz.datev.scc.ui.theme</id>
   <name>DATEV SCC UI Theme</name>
-  <version>1.2.1</version>
+  <version>0.0.0</version>
   <vendor email="christoph@welcz.de" url="http://github.com/enolive/datev-scc-theme">Christoph Welcz</vendor>
 
   <description><![CDATA[
