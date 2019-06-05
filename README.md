@@ -14,14 +14,19 @@ Features:
   
 ## How to build
 
+```bash
+gradle buildPlugin
+```
+
+## How to work with the project
+
 1. Open the Project in IntelliJ.
 2. Navigate to the `theme.json` file and start the preview if you 
    want to fiddle around with my choice of colors.
    See also following [preview issue](https://youtrack.jetbrains.com/issue/IDEA-208996)
    that might produce some problems with the included background
    image.
-3. You can produce a new plugin-jar by selecting **Build | Prepare Plugin for Deployment**
-4. You might also want to have a look at the really helpful 
+3. You might also want to have a look at the really helpful 
    [JetBrains Documentation for Custom UI Themes](http://www.jetbrains.org/intellij/sdk/docs/reference_guide/ui_themes/themes_intro.html)
 
 Contributions are always welcome!
