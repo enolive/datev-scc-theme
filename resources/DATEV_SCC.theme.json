@@ -47,6 +47,7 @@
       "pressedForeground": "#3f8225",
       "visitedForeground": "#004033"
     },
+    "Plugins.lightSelectionBackground": "#004033",
     "Popup": {
       "Header": {
         "activeBackground": "#3f8225",
