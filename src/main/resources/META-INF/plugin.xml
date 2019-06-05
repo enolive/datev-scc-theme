@@ -5,10 +5,10 @@
   <vendor email="christoph@welcz.de" url="http://github.com/enolive/datev-scc-theme">Christoph Welcz</vendor>
 
   <description><![CDATA[
-      UI Theme with the colors of the Software Craftsmanship Community at DATEV.<br>
-      See screenshots & description on <a href="http://github.com/enolive/datev-scc-theme">Github</a>
-    ]]>
-  </description>
+      UI Theme with the colors of the
+      <a href="https://twitter.com/SCC_at_DATEV">Internal Software Craftsmanship Community at DATEV</a>.<br>
+      See screenshots & description on <a href="http://github.com/enolive/datev-scc-theme">Github</a>.
+     ]]></description>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="191.0"/>

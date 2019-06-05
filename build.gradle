@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'de.welcz'
-version '1.0.0'
+version '1.0.1'
 
 sourceCompatibility = 1.8
 
@@ -16,10 +16,8 @@ intellij {
     version '2019.1'
     updateSinceUntilBuild = false
     sameSinceUntilBuild = true
-    configureDefaultDependencies = false
-    instrumentCode = false
-    downloadSources = true
 }
+
 patchPluginXml {
     version project.version
 }
