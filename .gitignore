@@ -12,6 +12,7 @@
 /build
 .idea/modules
 *.iml
+.gradle/
 
 # IntelliJ
 out/
