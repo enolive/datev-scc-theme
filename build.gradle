@@ -1,0 +1,25 @@
+plugins {
+    id 'org.jetbrains.intellij' version '0.4.9'
+}
+
+group 'de.welcz'
+version '1.0.0'
+
+sourceCompatibility = 1.8
+
+repositories {
+    mavenCentral()
+}
+
+// See https://github.com/JetBrains/gradle-intellij-plugin/
+intellij {
+    version '2019.1'
+    updateSinceUntilBuild = false
+    sameSinceUntilBuild = true
+    configureDefaultDependencies = false
+    instrumentCode = false
+    downloadSources = true
+}
+patchPluginXml {
+    version project.version
+}

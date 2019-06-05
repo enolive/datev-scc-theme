@@ -6,13 +6,14 @@
 
   <description><![CDATA[
       UI Theme with the colors of the Software Craftsmanship Community at DATEV.<br>
-      See screenshots &amp; description on &lt;a href="http://github.com/enolive/datev-scc-theme"&gt;Github&lt;/a&gt;
+      See screenshots & description on <a href="http://github.com/enolive/datev-scc-theme">Github</a>
     ]]>
   </description>
 
   <!-- please see http://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html for description -->
   <idea-version since-build="191.0"/>
 
+  <depends>com.intellij.modules.lang</depends>
   <extensions defaultExtensionNs="com.intellij">
     <themeProvider id="e8d9d8ca-357a-4cda-b807-5233bd095271" path="/DATEV_SCC.theme.json"/>
   </extensions>
