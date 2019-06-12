@@ -18,6 +18,10 @@ intellij {
     sameSinceUntilBuild = true
 }
 
+publishPlugin {
+    token intellijPublishToken
+}
+
 patchPluginXml {
     version project.version
 }
