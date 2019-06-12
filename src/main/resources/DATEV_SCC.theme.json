@@ -68,11 +68,12 @@
       "Green": "#142b0c",
       "Orange": "#330803",
       "Yellow": "#292400"
-    }
+    },
+    "VersionControl.Log.Commit.currentBranchBackground": "#002B22"
   },
   "background": {
     "image": "DATEV_SCC_Logo.png",
-    "transparency": 10,
+    "transparency": 20,
     "anchor": "bottom_right",
     "fill": "plain"
   }
