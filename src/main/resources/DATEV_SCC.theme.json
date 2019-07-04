@@ -38,7 +38,7 @@
     "EditorPane.inactiveBackground": "#000000",
     "EditorTabs": {
       "underlineColor": "#3f8225",
-      "selectedBackground": "#1a1a1a"
+      "selectedBackground": "#004033"
     },
     "Link": {
       "activeForeground": "#00b090",
