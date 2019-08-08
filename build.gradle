@@ -3,7 +3,7 @@ plugins {
 }
 
 group 'de.welcz'
-version '1.0.3'
+version '1.1.0'
 
 sourceCompatibility = 1.8
 
@@ -11,11 +11,15 @@ repositories {
     mavenCentral()
 }
 
+patchPluginXml {
+    sinceBuild = '192.5728'
+    untilBuild = ''
+}
+
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version '2019.1'
-    updateSinceUntilBuild = false
-    sameSinceUntilBuild = true
+    updateSinceUntilBuild = true
+    sameSinceUntilBuild = false
 }
 
 publishPlugin {

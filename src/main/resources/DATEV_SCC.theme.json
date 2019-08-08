@@ -34,11 +34,16 @@
       }
     },
     "Component.borderColor": "#005b4a",
+    "DefaultTabs": {
+      "underlineColor": "#3f8225",
+      "underlinedTabBackground": "#004033",
+      "hoverBackground": "#00392e"
+    },
     "Editor.shortcutForeground": "#00b090",
     "EditorPane.inactiveBackground": "#000000",
     "EditorTabs": {
       "underlineColor": "#3f8225",
-      "selectedBackground": "#004033"
+      "underlinedTabBackground": "#004033"
     },
     "Link": {
       "activeForeground": "#00b090",
