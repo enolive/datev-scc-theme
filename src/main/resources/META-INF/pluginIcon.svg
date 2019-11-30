@@ -24,7 +24,7 @@
   .darkcircle{fill:#000000;}
 </style>
 
-  <circle class="darkcircle" cx="150" cy="283" r="300"/>
+  <circle class="darkcircle" cx="290" cy="290" r="300"/>
 <switch>
 	<foreignObject requiredExtensions="&ns_ai;" x="0" y="0" width="1" height="1">
 		<i:pgfRef  xlink:href="#adobe_illustrator_pgf">
