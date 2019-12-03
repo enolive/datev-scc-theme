@@ -1,7 +1,7 @@
 # IntelliJ Theme with DATEV SCC colors
 
 This project includes a complete revamp of the UI colors
-of IntelliJ using the color style of the [Internal Software Craftsmanship
+of IntelliJ using the color style of the [Internal Software Craft
 Community at DATEV eG](https://twitter.com/SCC_at_DATEV).
 
 [Plugin at JetBrains Repo](https://plugins.jetbrains.com/plugin/12514-datev-scc-ui-theme).
