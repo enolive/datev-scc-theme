@@ -1,6 +1,7 @@
 # User-specific stuff
 .idea/**/workspace.xml
 .idea/**/dictionaries
+.idea/jarRepositories.xml
 
 # Gradle
 .idea/**/gradle.xml
