@@ -64,9 +64,10 @@
     "ToolWindow": {
       "Header": {
         "background": "#2f611c",
-        "inactiveBackground": "#004033",
+        "inactiveBackground": "#004d3d",
         "borderColor": "#004e40"
-      }
+      },
+      "Button.selectedBackground": "#2f611c"
     },
     "Tree.background": "#121212",
     "FileColor": {
